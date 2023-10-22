@@ -1,0 +1,38 @@
+/* estilos CSS */
+
+h1{
+    text-align: center;
+
+}
+body {
+    background-color: antiquewhite;
+}
+
+
+header {
+    background-color: #b75720;
+    color: #efefef;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+.navbar a {
+    color: #ecf0f1 !important;
+    margin: 0 15px;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.navbar {
+    background-color: #c25e24;
+    text-align: center;
+    padding: 10px ;
+
+}
+
+.navbar a:hover {
+    background-color: #cf6e35;
+}
