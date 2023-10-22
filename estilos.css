@@ -1,56 +1,47 @@
-
-
-h1{
-    text-align: center;
-
+h1 h2 {
+  text-align: center;
 }
 body {
-    background-color: antiquewhite;
+  background-color: antiquewhite;
 }
-
 
 header {
-    background-color: #b75720;
-    color: #efefef;
-    text-align: center;
-    padding: 10px;
+  background-color: #b75720;
+  color: #efefef;
+  text-align: center;
+  padding: 10px;
 }
 
-
-
 .navbar a {
-    color: #ecf0f1 !important;
-    margin: 0 15px;
-    padding: 15px 20px;
-    text-decoration: none;
-    font-size: 18px;
+  color: #ecf0f1 !important;
+  margin: 0 15px;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-size: 18px;
 }
 
 .navbar {
-    background-color: #c25e24;
-    text-align: center;
-    padding: 10px ;
-
+  background-color: #c25e24;
+  text-align: center;
+  padding: 10px;
 }
 
 .navbar a:hover {
-    background-color: #cf6e35;
+  background-color: #cf6e35;
 }
 .navbar-nav .nav-link.active {
-    color: #fff; 
-    background-color: #cf6e35;
+  color: #fff;
+  background-color: #ffb7c5;
 }
 .img-fluid {
-    width: 50%;
-    height: auto;
-    max-height: 400px;
-    display: block;
-    margin: 0 auto;
+  width: 50%;
+  height: auto;
+  max-height: 400px;
+  display: block;
+  margin: 0 auto;
 }
 
-P{
-    text-align: center;
-    font-size: 30px; 
-
-
+P {
+  text-align: center;
+  font-size: 30px;
 }
