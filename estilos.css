@@ -1,4 +1,4 @@
-/* estilos CSS */
+
 
 h1{
     text-align: center;
@@ -34,6 +34,10 @@ header {
 }
 
 .navbar a:hover {
+    background-color: #cf6e35;
+}
+.navbar-nav .nav-link.active {
+    color: #fff; 
     background-color: #cf6e35;
 }
 .img-fluid {
