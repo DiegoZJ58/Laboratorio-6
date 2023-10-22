@@ -36,3 +36,17 @@ header {
 .navbar a:hover {
     background-color: #cf6e35;
 }
+.img-fluid {
+    width: 50%;
+    height: auto;
+    max-height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+P{
+    text-align: center;
+    font-size: 30px; 
+
+
+}
